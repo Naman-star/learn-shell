@@ -4,5 +4,3 @@ uname -a
 
 yum list installed
 
-naman
-
