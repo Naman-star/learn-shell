@@ -4,3 +4,4 @@ uname -a
 
 yum list installed
 
+echo naman
